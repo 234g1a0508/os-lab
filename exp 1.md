@@ -21,12 +21,12 @@ l name
   exit
   Exit from a process. If shell is the only process then logs out
 ```
-![screenshot](a1.PNG)
-![screenshot](a2.PNG)
-![screenshot](a3.PNG)
-![screenshot](a4.PNG)
-![screenshot](a5.png)
-![screenshot](a6.png)
+![screenshot](a1.jpg)
+![screenshot](a2.jpg)
+![screenshot](a3.jpg)
+![screenshot](a4.jpg)
+![screenshot](a5.jpg)
+![screenshot](a6.jpg)
 
 > ## DIRECTORY COMMANDS
 
@@ -50,7 +50,7 @@ rmdir subdir
 Removes an empty sub-directory.
 ```c
 
-![screenshot](a7.jpg)
+![screenshot](a7.png)
 
 > ## FILE COMMANDS
 
@@ -108,7 +108,7 @@ chmod 740 file
 sets all rights for user, read only for groups and no rights for others
 ```
 
-![screenshot](a8.PNG)
+![screenshot](a8.jpg)
 
 
 > ## RESULT
@@ -148,7 +148,7 @@ return EXIT_SUCCESS;
 }
 ```
 
-![screenshot](a1b1.PNG)
+![screenshot](a1b1.jpg)
 
 > ## Simulation code for ls command
 
@@ -177,7 +177,7 @@ return 0;
 }
 ```
 
-![screenshot](a1b2.PNG)
+![screenshot](a1b2.jpg)
 
 > ## Simulate Grep command
 
@@ -208,4 +208,4 @@ return EXIT_SUCCESS;
 }
 ```
 
-![screenshot](a1b3.PNG)
+![screenshot](a1b3.jpg)
