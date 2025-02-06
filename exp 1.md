@@ -1,4 +1,35 @@
-l name
+# os-lab
+> ## Exp1: basics of unix commands
+
+>PROCEDURE: Login into the ubuntu terminal use Ctrl + Alt + t windows shortcut key or go to activity bar search for terminal and mouse click the terminal open.
+
+> ## Commands with Descriptions
+
+> ## GENERAL COMMANDS
+
+```c
+  date
+  Used to display the current system date and time.
+  date +%D
+  Displays date only
+  date +%T
+  Displays time only
+  date +% Y
+  Displays the year part of date
+  date +% H
+  Displays the hour part of time
+  cal
+  Calendar of the current month
+  cal year
+  Displays calendar for all months of the specified year
+  cal month year
+  Displays calendar for the specified month of the year
+  who
+  Login details of all users such as their IP, Terminal No, User name,
+  who am i
+  Used to display the login details of the user
+  tty
+  Used to display the terminal name
   uname
   Displays the Operating System
   unameOperating System Lab Manual Department of CSE, SRIT, ATP
@@ -209,3 +240,4 @@ return EXIT_SUCCESS;
 ```
 
 ![screenshot](a1b3.jpg)
+
